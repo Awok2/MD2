@@ -17,9 +17,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285162634171','6285748894171']
+global.owner = ['6288291659138','6288210387012']
 global.web = 'https://youtube.com/channel/UC2hMC3YSXSrDDhqOECXZkUg'
-global.bot = 'NahBotz-MD²'
+global.bot = 'AZWANBotz-MD²'
 global.premium = ['6285748894171']
 global.packname = 'NakataArdnt'
 global.author = 'Nakata'
